@@ -1,1 +1,19 @@
-{ "plugins": [] }
+{
+  "plugins": [
+    { "name": "countdown", "enabled": false },
+    { "name": "pomodoro", "enabled": false },
+    { "name": "stickynotes", "enabled": false },
+    { "name": "journalfeed", "enabled": false },
+    { "name": "routineforge", "enabled": false },
+    { "name": "habitring", "enabled": false },
+    { "name": "focuslock", "enabled": false },
+    { "name": "memorytrace", "enabled": false },
+    { "name": "backtrack", "enabled": false },
+    { "name": "snippetstash", "enabled": false },
+    { "name": "shardsync", "enabled": false },
+    { "name": "beacon", "enabled": false },
+    { "name": "pingbridge", "enabled": false },
+    { "name": "voicedrop", "enabled": false },
+    { "name": "zenscenes", "enabled": false }
+  ]
+}
